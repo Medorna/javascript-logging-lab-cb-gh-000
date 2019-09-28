@@ -1,3 +1,3 @@
-1. console.log('hola')
-2. console.error('hola')
-3. console.warn('hola')
+console.log('hola');
+console.error('asdfa');
+console.warn('afsafasfa');
